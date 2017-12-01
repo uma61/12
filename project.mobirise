@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": ""
@@ -166,6 +166,24 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Все родители помнят, когда ребёнок произнёс свой первый слог, а вслед за ним – своё первое слово: «мама» или «папа». Конечно, первые слова, произнесённые ребёнком, отдалённо напоминали «оригинал». Но это были его первые шаги на пути к становлению правильной и грамотной речи!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": false,
@@ -173,7 +191,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -395,7 +413,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x17112.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x17114.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -406,7 +424,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x17113.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x17115.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
