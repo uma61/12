@@ -161,7 +161,7 @@
               "color": "#fac51c"
             },
             ".mbr-section-lead": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
@@ -244,7 +244,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x1712.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x1714.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -255,7 +255,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x1713.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x1715.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
