@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-28_0525",
+    "name": "LOGOPED",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,9 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 17,
-    "versionPublish": "4.4.1"
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -61,7 +63,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "12px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -118,7 +121,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДЕТСКИЙ ЛОГОПЕД<br>ОНЛАЙН&nbsp;+19184068702<br></a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДЕТСКИЙ ЛОГОПЕД<br>ОНЛАЙН&nbsp;+19184068702<br>whatsapp, viber<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1"
         },
@@ -143,7 +146,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.4"
           },
-          "title": "ДЕТСКИЙ ЛОГОПЕД<br>ОНЛАЙН",
+          "title": "Альмира<br>Увалиева-Страуб",
           "text": "Если Вам нужен детский логопед онлайн, если Вы считаете, что ребёнку необходима диагностика и консультирование логопеда, - этот сайт для Вас",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -241,7 +244,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x17114.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x1712.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -252,7 +255,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x17115.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x1713.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
