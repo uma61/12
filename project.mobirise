@@ -169,11 +169,11 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": false,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -207,7 +207,7 @@
             }
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p> Если Вам нужен детский логопед онлайн, если Вы считаете, что ребёнку необходима диагностика и консультирование логопеда</p>",
           "_tags": [
             "Theme"
           ],
@@ -395,7 +395,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x17110.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x17112.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -406,7 +406,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x17111.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x17113.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
