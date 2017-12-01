@@ -258,18 +258,24 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-600x449.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-600x449.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -413,7 +419,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x17114.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x1710.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -424,7 +430,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x17115.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x1711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
